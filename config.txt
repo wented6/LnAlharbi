@@ -2,5 +2,5 @@ token=NTIyMzU5MTk1MTQ0NTUyNDU5.DvJ0pg.o9sRtgyrIhYZFkACTFRAhwk5JKw
 owner=429640585683664897
 prefix= L
 game= صديقة الليل والموسيقى ومُحبه للهدوء والعُزله..!
-stayinchannel=false
+stayinchannel=true
 songinstatus=false
